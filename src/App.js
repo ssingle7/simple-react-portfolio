@@ -1,3 +1,7 @@
+// import react from "react"; 
+// import "./App.css"; 
+
+
 function App() {
   return (
     <div className="App">
@@ -16,7 +20,7 @@ function App() {
             aria-label="Toggle navigation"
           >
             Menu
-            <i class="fas fa-bars ml-1"></i>
+            <i class="fa fa-bars ml-1"></i>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav text-uppercase ml-auto">
@@ -76,8 +80,8 @@ function App() {
           <div class="row text-center">
             <div class="col-md-4">
               <span class="fa-stack fa-4x">
-                <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
               </span>
               <h4 class="my-3">E-Commerce</h4>
               <p class="text-muted">
@@ -88,8 +92,8 @@ function App() {
             </div>
             <div class="col-md-4">
               <span class="fa-stack fa-4x">
-                <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
               </span>
               <h4 class="my-3">Responsive Design</h4>
               <p class="text-muted">
@@ -100,8 +104,8 @@ function App() {
             </div>
             <div class="col-md-4">
               <span class="fa-stack fa-4x">
-                <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
               </span>
               <h4 class="my-3">Web Security</h4>
               <p class="text-muted">
@@ -132,7 +136,7 @@ function App() {
                 >
                   <div class="portfolio-hover">
                     <div class="portfolio-hover-content">
-                      <i class="fas fa-plus fa-3x"></i>
+                      <i class="fa fa-plus fa-3x"></i>
                     </div>
                   </div>
                   <img
@@ -158,7 +162,7 @@ function App() {
                 >
                   <div class="portfolio-hover">
                     <div class="portfolio-hover-content">
-                      <i class="fas fa-plus fa-3x"></i>
+                      <i class="fa fa-plus fa-3x"></i>
                     </div>
                   </div>
                   <img
@@ -184,7 +188,7 @@ function App() {
                 >
                   <div class="portfolio-hover">
                     <div class="portfolio-hover-content">
-                      <i class="fas fa-plus fa-3x"></i>
+                      <i class="fa fa-plus fa-3x"></i>
                     </div>
                   </div>
                   <img
@@ -210,7 +214,7 @@ function App() {
                 >
                   <div class="portfolio-hover">
                     <div class="portfolio-hover-content">
-                      <i class="fas fa-plus fa-3x"></i>
+                      <i class="fa fa-plus fa-3x"></i>
                     </div>
                   </div>
                   <img
@@ -236,7 +240,7 @@ function App() {
                 >
                   <div class="portfolio-hover">
                     <div class="portfolio-hover-content">
-                      <i class="fas fa-plus fa-3x"></i>
+                      <i class="fa fa-plus fa-3x"></i>
                     </div>
                   </div>
                   <img
@@ -262,7 +266,7 @@ function App() {
                 >
                   <div class="portfolio-hover">
                     <div class="portfolio-hover-content">
-                      <i class="fas fa-plus fa-3x"></i>
+                      <i class="fa fa-plus fa-3x"></i>
                     </div>
                   </div>
                   <img
